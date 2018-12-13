@@ -1,0 +1,120 @@
+.header {
+  background-color: lightgrey;
+  height: 200px;
+  width: 1000px;
+  margin: 0 auto;
+}
+
+.logo {
+  width: 1000px;
+  height: 175px;
+  background-color: darkgrey;
+  background-image: url('images/Untitled-3.png');
+}
+
+nav {
+  background-color: black;
+  width: 1000px;
+  height: 25px;
+}
+
+.content {
+  background-color: black;
+  height: 1500px;
+  width: 1000px;
+  margin: 0 auto;
+  margin-top: 10px;
+}
+
+.column {
+  background-color: black;
+  height: 1500px;
+  width: 300px;
+  float: left;
+  margin: 0px 16.6px;
+}
+
+.story1 {
+  background-image: url('images/Billy.png') ;
+  width: 300px;
+  height: 720px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.story2 {
+  background-image: url('images/kermit1.png');
+  width: 300px;
+  height: 720px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.story3 {
+  background-image: url('images/swoller.png');
+  width: 300px;
+  height: 720px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.story4 {
+  background-image: url('images/rick22.png');
+  width: 300px;
+  height: 720px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  color: white;
+}
+
+.story5 {
+  background-image: url('images/obama.png');
+  width: 300px;
+  height: 720px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  color: white;
+}
+
+.story6 {
+  background-image: url('images/doges.png');
+  width: 300px;
+  height: 720px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.ads3 {
+  width: 980px;
+  height: 200px;
+  background-image: url('images/phil.png');
+  float: left;
+  margin: 10px;
+}
+
+.ads2 {
+  float: right;
+  background-image: url('images/399.png');
+  width: 400px;
+  height: 1000px;
+}
+
+.ads1 {
+  float: left;
+  background-image: url('images/flexseal.png');
+  width: 400px;
+  height: 1000px;
+}
+
+body {
+  background-color: lightgrey;
+}
+
+h3 {
+  font-family:monospace;
+  font-size: 20px
+}
+
+p {
+  font-family:sans-serif;
+}
